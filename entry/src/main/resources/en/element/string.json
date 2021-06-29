@@ -1,0 +1,23 @@
+{
+  "string": [
+    {
+      "name": "entry_MainAbility",
+      "value": "memorandum"
+    },
+    {
+      "name": "mainability_description",
+      "value": "Java_Empty Ability"
+    },
+    {
+      "name": "mainability_HelloWorld",
+      "value": "Hello World"
+    },
+    {
+      "name": "title",
+      "value": "memorandum"
+    },{
+      "name": "newfile",
+      "value": "new file"
+    }
+  ]
+}
